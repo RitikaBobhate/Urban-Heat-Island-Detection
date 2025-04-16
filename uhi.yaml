@@ -1,0 +1,4 @@
+path: C:\Users\Asus\Desktop\UHI_YOLO_DATA
+train: images/train
+val: images/val
+names: ['UHI']
