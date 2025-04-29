@@ -9,6 +9,7 @@ This project uses thermal satellite data, QGIS, and YOLOv8 deep learning to dete
 - YOLOv8
 - LabelImg
 - Python
+- PowerBI 
 
 ## 🛰️ Steps:
 1. Collected thermal satellite imagery (Landsat 8)
